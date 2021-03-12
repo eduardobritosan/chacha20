@@ -15,5 +15,10 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "linebreak-style": "off",
+        "require-jsdoc":"off",
+        "valid-jsdoc":"off",
+        "object-curly-spacing":"off",
+        "indent":"off"
     }
 }
